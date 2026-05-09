@@ -101,5 +101,23 @@ Si deseas que el título de la tarea sea visible en negrita, escribe entre doble
 ## Historial de versiones
 
 En la siguiente tabal se muestran las versiones publicadas de la aplicación
-| Versión | Fecha | Descripción |
-| ---:    | :---: | :---        |
+| Versión |   Fecha    | Descripción            |
+|--------:|:----------:|:-----------------------|
+|   1.0.0 | 01/01/2024 | Lanzamiento inicial    |
+|   1.1.0 | 15/01/2024 | Nuevas funcionalidades |
+|   1.1.1 | 30/01/2024 | Corrección de errores  |
+|   1.2.0 | 15/02/2024 | Mejoras de rendimiento |
+|   2.0.0 | 15/03/2024 | Versión estable        |
+|   2.1.0 | 30/03/2024 | Corrección de errores  |
+|   2.2.0 | 15/04/2024 | Mejoras de usabilidad  |
+|   2.3.0 | 30/04/2024 | Nuevas funcionalidades |
+
+## Creditos
+
+Desarrollado por juanma
+[enlace github](https://github.com/Juanma4312/Markdown)
+
+## Licencia
+
+Este proyecto está bajo la Liciencia MIT.
+
